@@ -35,11 +35,11 @@ This project aims to predict **Global Active Power (kilowatts)** consumed in a h
 7. StandardScaling
 8. Feature selection
 9. ML model
-   Linear Regression
-   Random Forest Regressor
-   Gradient Boosting Regressor
-   XGB
-   Hyper parameter Tuning
+   - Linear Regression
+   - Random Forest Regressor
+   - Gradient Boosting Regressor
+   - XGB
+   - Hyper parameter Tuning
 10. Model selection
    
 
